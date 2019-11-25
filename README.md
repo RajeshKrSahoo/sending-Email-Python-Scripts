@@ -1,4 +1,4 @@
-# sending Email with Pandas dataframe table Python Scripts 
+# Sending Email with Pandas dataframe table Python Scripts 
 
 Sending Email with a table using python Dataframe,
 
