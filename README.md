@@ -26,3 +26,7 @@ This is output table attached with Pandas dataframe, We also can make charts !!!
 
 
 ### updated File name having latest code:: Sending Emai using python Script a pandas dataframe_u1.ipynb
+
+## Note:
+
+Google has anounced to depracate the service i.e. allowing third party module to send email thorugh its SMTP Server as Google finds its insecure.
